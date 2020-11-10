@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Occult">
+    <output-path>$USER_HOME$/Desktop/BUILD SERVER/plugins</output-path>
+    <root id="archive" name="Occult.jar">
+      <element id="module-output" name="Occult" />
+    </root>
+  </artifact>
+</component>
