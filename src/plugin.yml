@@ -1,0 +1,10 @@
+name: Occult
+main: com.AxiusDesigns.AxiusPlugins.Occult.Occult
+author: AxiusDevelopment
+version: 0.1
+prefix: OCC
+commands:
+  occult:
+    description: remove player from tablist.
+  unoccult:
+    description: re-show player on tablist.
